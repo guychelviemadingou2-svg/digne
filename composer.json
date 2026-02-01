@@ -64,7 +64,8 @@
         },
         "platform": {
             "php": "8.2.0"
-        }
+        },
+        "ignore-platform-reqs": true
     },
     "minimum-stability": "stable",
     "prefer-stable": true
